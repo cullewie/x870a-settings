@@ -64,6 +64,22 @@ BIOS sürümü: 2503. Varsayılan değerler **Load Optimized Defaults** sonrası
 
 | Menü | Ayar | Değer | Varsayılan |
 |---|---|---|---|
+| Advanced → AMD Overclocking → DDR and Infinity Fabric Frequency/Timings → Infinity Fabric Frequency and Dividers | Infinity Fabric Frequency and Dividers | 2200 MHz | Auto |
+| Advanced → AMD Overclocking → DDR and Infinity Fabric Frequency/Timings → Infinity Fabric Frequency and Dividers | UCLK DIV1 MODE | UCLK=MEMCLK/2 | Auto |
+| Advanced → AMD Overclocking → DDR and Infinity Fabric Frequency/Timings → DDR Options | DDR5 Nitro Mode | Enabled | Auto |
+| Advanced → AMD Overclocking → DDR and Infinity Fabric Frequency/Timings → DDR Options | Nitro RX Data | 1 | Auto |
+| Advanced → AMD Overclocking → DDR and Infinity Fabric Frequency/Timings → DDR Options | Nitro TX Data | 3 | Auto |
+| Advanced → AMD Overclocking → DDR and Infinity Fabric Frequency/Timings → DDR Options | Nitro Control Line | 1 | Auto |
+| Advanced → AMD Overclocking → DDR and Infinity Fabric Frequency/Timings → DDR Options | Nitro Rx Burst Length | 8x | Auto |
+| Advanced → AMD Overclocking → DDR and Infinity Fabric Frequency/Timings → DDR Options | Nitro Tx Burst Length | 8x | Auto |
+| Advanced → AMD Overclocking → DDR and Infinity Fabric Frequency/Timings → DDR Options → DDR Controller Configuration → DDR Power Options | Power Down Enable | Disabled | Auto |
+| Advanced → AMD Overclocking → Precision Boost Overdrive | Precision Boost Overdrive | Advanced | Auto |
+| Advanced → AMD Overclocking → Precision Boost Overdrive | PBO Limits | Disable | Auto |
+| Advanced → AMD Overclocking → Precision Boost Overdrive | CPU Boost Clock Override | Enabled (Positive) | Disabled |
+| Advanced → AMD Overclocking → Precision Boost Overdrive | Max CPU Boost Clock Override(+) | 200 | 25 |
+| Advanced → AMD Overclocking → Precision Boost Overdrive → Curve Optimizer | Curve Optimizer | All Cores | Auto |
+| Advanced → AMD Overclocking → Precision Boost Overdrive → Curve Optimizer | All Core Curve Optimizer Sign | Negative | Positive |
+| Advanced → AMD Overclocking → Precision Boost Overdrive → Curve Optimizer | All Core Curve Optimizer Magnitude | 10 | 0 |
 | Advanced → AMD CBS | Global C-state Control | Disabled | Auto |
 | Advanced → AMD CBS → CPU Common Options | Platform First Error Handling | Disabled | Auto |
 | Advanced → AMD CBS → CPU Common Options | ACPI _CST C1 Declaration | Disabled | Auto |
